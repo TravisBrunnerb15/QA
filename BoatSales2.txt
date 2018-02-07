@@ -1,0 +1,16 @@
+Data entry field	Values to enter	Results 
+		
+Boat type	no value	"error,default to S"
+Boat type	X	"error,default to S"
+Accessory type	no value	"error,default to 1"
+Accessory type	0	"error,default to 1"
+Accessory type	4	"error,default to 1"
+Quantity	no value	"error,default to 1"
+Quantity	non-numeric	"error,default to 1"
+Quantity	1.5	"error,default to 1"
+Boat cost	no value	"error,default to 25,000"
+Boat cost	0	"error,default to 25,000"
+Boat cost	non-numeric	"error,default to 25,000"
+prep cost	no value	"error,default to 5,000"
+prep cost	0	"error,default to 5,000"
+prep cost	non-numeric	"error,default to 5,000"
